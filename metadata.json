@@ -1,0 +1,6 @@
+{
+  "name": "Neon Space Defender",
+  "description": "A retro-arcade 2D vertical neon space shooter featuring glowing vector graphics, procedural starfield, Web Audio sound synthesis, power-ups, and particle FX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
